@@ -22,6 +22,7 @@ function About() {
 
         
         <div className='edu-item flex-box'>
+        <img src='https://d2lk14jtvqry1q.cloudfront.net/media/large_University_of_Kerala_Kerala_University_96cd13928f_5c26665bba.png'></img>
           <div className='about-right'>
           <h1>University of Kerala</h1>
           <h2>MSc. Computer Science (2024 - Present)</h2>
@@ -31,6 +32,7 @@ function About() {
         
          
          <div className='edu-item flex-box'>
+         <img src='https://d2lk14jtvqry1q.cloudfront.net/media/large_University_of_Kerala_Kerala_University_96cd13928f_5c26665bba.png'></img>
           <div className='about-right'>
           <h1>University of Kerala</h1>
           <h2>BSc. Computer Science (2021 - 2024)</h2>
@@ -38,8 +40,9 @@ function About() {
           </div>
         </div>
         <div className='edu-item flex-box'>
+          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHLmpRKy66B6fUtScsFNmca1XemBaCwLQbA&s'></img>
           <div className='about-right'>
-          <h1>Central Board of Secondary Education</h1>
+          <h1> Kerala State Board of Higher Secondary Education</h1>
           <h2>Higher Secondary Education (2021)</h2>
           <p>I have completed my Higher Secondary Education from Government Higher Secondary School, Kalanjoor</p>
           </div>
