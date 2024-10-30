@@ -101,7 +101,7 @@
   padding: 15px;
   font-weight: 400;
   font-size: 16px;
-  color: white;
+  color: white(99, 70, 70);
   border-radius: 35px;
 }
 
@@ -165,7 +165,7 @@
 }
 .footer {
   width: 100%;
-  background: #10182F;
+  background: #16181d;
 }
 
 .footer .footer-row {
@@ -211,7 +211,7 @@
   background: none;
   width: 100%;
   outline: none;
-  border: 1px solid #7489C6 ;
+  border: 1px solid #98a8d8 ;
   caret-color: #fff;
   color: #fff;
   padding-left: 10px;

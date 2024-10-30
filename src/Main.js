@@ -11,6 +11,8 @@ const Main = () => {
         {/* The Routes decides which component to show based on the current URL. */}
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+     
+      
       </Routes>
     </Router>
   );
