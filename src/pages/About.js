@@ -14,7 +14,7 @@ function About() {
           <div className="item"><a href='/about'>About</a></div>
           <div className="item">Projects</div>
           <div className="item">Vision</div>
-          <div className="item">Contact</div>
+          <div className="item"><a href='/contact'>Contact</a></div>
         </div>
       </nav>
       <section className='education'>
